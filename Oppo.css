@@ -1,0 +1,35 @@
+.bgimg{
+	background-image: url('https://t4.ftcdn.net/jpg/06/08/90/51/240_F_608905169_95uiphL31K4E2UlmgGqEmXNrZStx8OgS.jpg');
+	background-size: cover;
+	height: 190vh;
+}
+.headfirst{
+	color: black;
+	font-size: 30px;
+	font-weight: bold;
+	padding: 25px;
+	text-align: center;
+}
+.bgcard{
+	margin: 100px;
+	margin-top: 10px;
+}
+.cardcon{
+	padding: 30px;
+	background-color: #f5425d;
+	font-weight: bold;
+	font-style: italic;
+
+}
+.headsecond{
+	color: whitesmoke;
+	font-size: 30px;
+	font-weight: 900;
+}
+.para{
+	color: white;
+	font-size: 20px;
+}
+img{
+	height: 800px;
+}

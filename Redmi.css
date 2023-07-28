@@ -1,0 +1,35 @@
+.bgimg{
+	background-image: url('https://img.freepik.com/free-vector/background-design-with-mandalas-pattern_1308-70343.jpg?size=626&ext=jpg&ga=GA1.2.1444119140.1671213698&semt=ais');
+	background-size: cover;
+	height: 160vh;
+}
+.headfirst{
+	color: white;
+	font-size: 30px;
+	font-weight: bold;
+	padding: 25px;
+	text-align: center;
+}
+.bgcard{
+	margin: 100px;
+	margin-top: 10px;
+}
+.cardcon{
+	padding: 30px;
+	background-color: #15cf50;
+	font-weight: bold;
+	font-style: italic;
+
+}
+.headsecond{
+	color: darkblue;
+	font-size: 30px;
+	font-weight: 900;
+}
+.para{
+	color: black;
+	font-size: 20px;
+}
+img{
+	height: 500px;
+}

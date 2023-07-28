@@ -1,0 +1,35 @@
+.bgimg{
+	background-image: url('https://img.freepik.com/free-vector/realistic-neon-lights-background_23-2148907367.jpg?size=626&ext=jpg&ga=GA1.1.1444119140.1671213698&semt=ais');
+	background-size: cover;
+	height: 170vh;
+}
+.headfirst{
+	color: white;
+	font-size: 30px;
+	font-weight: bold;
+	padding: 25px;
+	text-align: center;
+}
+.bgcard{
+	margin: 100px;
+	margin-top: 10px;
+}
+.cardcon{
+	padding: 30px;
+	background-color: #181a9e;
+	font-weight: bold;
+	font-style: italic;
+
+}
+.headsecond{
+	color: whitesmoke;
+	font-size: 30px;
+	font-weight: 900;
+}
+.para{
+	color: white;
+	font-size: 20px;
+}
+img{
+	height: 700px;
+}
